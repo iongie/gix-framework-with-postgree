@@ -1,0 +1,16 @@
+#GIX FRAMEWORK 
+
+##Setting enviroment
+PORT = <your port>
+
+HOST_DB = <your host for database>
+PORT_DB = <your port for database>
+USERNAME_DB = <username for database>
+PASSWORD_DB = <password for database>
+DB = <name for database>
+
+SERVICE_EMAIL = <YOUR SERVICE EMAIL>
+PORT_EMAIL = <YOUR PORT EMAIL>
+HOST_EMAIL = <YOUR HOST EMAIL>
+USERNAME_EMAIL = <YOUR USERNAME EMAIL>
+PASSWORD_EMAIL = <YOUT PASSWORD EMAIL>
